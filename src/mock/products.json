@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "grey-t-shirt",
+    "price": 19.99,
+    "description": "A classic grey t-shirt made from soft, breathable fabric. Perfect for casual wear or layering.",
+    "image": "/assets/images/grey-t-shirt.png",
+    "category": "body-wear"
+  },
+  {
+    "id": 2,
+    "name": "blue-T-shirt",
+    "price": 24.99,
+    "description": "A vibrant blue t-shirt with a modern fit and high-quality material. Ideal for adding a pop of color to your wardrobe.",
+    "image": "/assets/images/blue-T-shirt.png",
+    "category": "body-wear"
+  },
+  {
+    "id": 3,
+    "name": "t-shirt-nike",
+    "price": 29.99,
+    "description": "Sporty and stylish, this Nike t-shirt offers a comfortable fit and a sleek design. Great for both workouts and casual outings.",
+    "image": "/assets/images/t-shirt-nike.png",
+    "category": "body-wear"
+  },
+  {
+    "id": 4,
+    "name": "iphone11",
+    "price": 699.99,
+    "description": "The iPhone 11 features a sleek design and powerful performance. It offers a dual-camera system for high-quality photos and videos.",
+    "image": "/assets/images/iphone11.png",
+    "category": "body-wearmobile"
+  },
+  {
+    "id": 5,
+    "name": "iphone12pro",
+    "price": 999.99,
+    "description": "The iPhone 12 Pro delivers exceptional performance with its A14 Bionic chip and stunning Super Retina XDR display. Ideal for photography enthusiasts with its advanced camera system.",
+    "image": "/assets/images/iphone12pro.png",
+    "category": "mobile"
+  },
+  {
+    "id": 6,
+    "name": "iphone14",
+    "price": 1099.99,
+    "description": "The iPhone 14 brings innovative features and a refined design. Experience top-notch performance and enhanced photography capabilities.",
+    "image": "/assets/images/iphone14.png",
+    "category": "mobile"
+  },
+  {
+    "id": 7,
+    "name": "iphoneX",
+    "price": 799.99,
+    "description": "The iPhone X combines a stunning OLED display with a powerful processor. Its face recognition technology offers a futuristic touch.",
+    "image": "/assets/images/iphoneX.png",
+    "category": "mobile"
+  },
+  {
+    "id": 8,
+    "name": "cap1",
+    "price": 19.99,
+    "description": "A stylish cap with an adjustable strap for a perfect fit. Great for casual days out or sports activities.",
+    "image": "/assets/images/cap1.png",
+    "category": "Head-Wear"
+  },
+  {
+    "id": 9,
+    "name": "cap2",
+    "price": 22.99,
+    "description": "This cap features a trendy design and a comfortable fit. Ideal for sunny days and adding a cool touch to your outfit.",
+    "image": "/assets/images/cap2.png",
+    "category": "Head-Wear"
+  },
+  {
+    "id": 10,
+    "name": "cap3",
+    "price": 24.99,
+    "description": "A durable and fashionable cap perfect for outdoor adventures. Offers excellent sun protection and style.",
+    "image": "/assets/images/cap3.png",
+    "category": "Head-Wear"
+  },
+  {
+    "id": 11,
+    "name": "cap4",
+    "price": 19.99,
+    "description": "Designed for comfort and style, this cap is a great addition to any casual outfit. Features an adjustable strap for a customizable fit.",
+    "image": "/assets/images/cap4.png",
+    "category": "Head-Wear"
+  },
+  {
+    "id": 12,
+    "name": "cap5",
+    "price": 21.99,
+    "description": "A sleek cap with a modern design and quality construction. Perfect for everyday wear or sports activities.",
+    "image": "/assets/images/cap5.png",
+    "category": "Head-Wear"
+  },
+  {
+    "id": 13,
+    "name": "playstation3",
+    "price": 249.99,
+    "description": "The PlayStation 3 offers a great gaming experience with its impressive library of games and multimedia features. Enjoy high-definition graphics and an extensive game selection.",
+    "image": "/assets/images/playstation3.png",
+    "category": "electronics"
+  },
+  {
+    "id": 14,
+    "name": "playstation5",
+    "price": 499.99,
+    "description": "The PlayStation 5 delivers cutting-edge gaming with its advanced hardware and lightning-fast load times. Experience immersive graphics and a new level of gameplay.",
+    "image": "/assets/images/playstation5.png",
+    "category": "electronics"
+  },
+  {
+    "id": 15,
+    "name": "playstation4",
+    "price": 299.99,
+    "description": "The PlayStation 4 offers a robust gaming experience with a vast library of titles and high-quality graphics. A popular choice for gamers of all levels.",
+    "image": "/assets/images/playstation4.png",
+    "category": "electronics"
+  }
+]

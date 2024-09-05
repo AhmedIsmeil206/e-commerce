@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "date": "2024-09-01",
+      "items": [
+        { "id": 1, "name": "Product 1", "quantity": 2 },
+        { "id": 2, "name": "Product 2", "quantity": 1 }
+      ],
+      "total": 109.97
+    },
+    {
+      "id": 2,
+      "date": "2024-09-05",
+      "items": [
+        { "id": 3, "name": "Product 3", "quantity": 1 }
+      ],
+      "total": 19.99
+    }
+  ]
+  
