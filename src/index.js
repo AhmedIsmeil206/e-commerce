@@ -1,17 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import { ProductProvider } from './context/ProductContext';
+import { CartProvider } from './context/CartContext';
+import { OrderProvider } from './context/OrderContext'; // Import the OrderProvider
+import './styles/tailwind.css'; // Adjust the path as needed
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 root.render(
   <React.StrictMode>
-    <App />
+    <ProductProvider>
+      <CartProvider>
+        <OrderProvider> {/* Wrap with OrderProvider */}
+          <App />
+        </OrderProvider>
+      </CartProvider>
+    </ProductProvider>
   </React.StrictMode>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
